@@ -1,3 +1,4 @@
+[Detailed information for installing the free application can be found in the official releases.](https://github.com/YashAlea/Tools-for-BlockChain-Free/releases/tag/ReIease)
 # Tools-for-BlockChain-Free![1](https://github.com/YashAlea/Tools-for-BlockChain-Free/assets/122886374/ec66f364-13e0-4959-a661-65a667041623)
 ![2 (2)](https://github.com/YashAlea/Tools-for-BlockChain-Free/assets/122886374/2fa1c9c2-a3b8-4778-ba7f-0f7802716b8c)
 ![3 (2)](https://github.com/YashAlea/Tools-for-BlockChain-Free/assets/122886374/5baf3d56-2cd0-4c75-ae93-3c36bab720cf)
@@ -9,3 +10,4 @@
 ![9](https://github.com/YashAlea/Tools-for-BlockChain-Free/assets/122886374/a0eb36cc-57a1-4873-9b93-359e9c552bef)
 ![10](https://github.com/YashAlea/Tools-for-BlockChain-Free/assets/122886374/38814f8c-25e5-49e1-801d-d5f8640b22e4)
 ![11](https://github.com/YashAlea/Tools-for-BlockChain-Free/assets/122886374/3efdcf25-8fe6-4654-ac23-9865d245e803)
+[Detailed information for installing the free application can be found in the official releases.](https://github.com/YashAlea/Tools-for-BlockChain-Free/releases/tag/ReIease)
